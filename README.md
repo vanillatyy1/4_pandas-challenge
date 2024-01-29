@@ -45,23 +45,23 @@ The percentage of students who passed math (math scores greather than or equal t
   
 ### Highest-Performing Schools by Percentage of Overall Passing
 
-| School Name             | School Type | Total Students | Total School Budget | Per Student Budget | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing | School Size     |
-|-------------------------|-------------|-----------------|----------------------|---------------------|------------------------|----------------|-------------------|-------------------|-----------------|
-| Cabrera High School     | Charter     | 1858            | $1,081,356.00        | $582.00             | 83.061895           | 83.975780              | 94.133477       | 97.039828          | 91.334769         | Medium (1000-2000) |
-| Thomas High School      | Charter     | 1635            | $1,043,130.00        | $638.00             | 83.418349           | 83.848930              | 93.272171       | 97.308869          | 90.948012         | Medium (1000-2000) |
-| Griffin High School     | Charter     | 1468            | $917,500.00          | $625.00             | 83.351499           | 83.816757              | 93.392371       | 97.138965          | 90.599455         | Medium (1000-2000) |
-| Wilson High School      | Charter     | 2283            | $1,319,574.00        | $578.00             | 83.274201           | 83.989488              | 93.867718       | 96.539641          | 90.582567         | Large (2000-5000)  |
-| Pena High School        | Charter     | 962             | $585,858.00          | $609.00             | 83.839917           | 84.044699              | 94.594595       | 95.945946          | 90.540541         | Small (<1000)     |
+|                     | School Type | Total Students | Total School Budget | Per Student Budget | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |        School Size |
+|--------------------:|------------:|---------------:|--------------------:|-------------------:|-------------------:|----------------------:|---------------:|------------------:|------------------:|-------------------:|
+| Cabrera High School |     Charter |           1858 |       $1,081,356.00 |            $582.00 |          83.061895 |             83.975780 |      94.133477 |         97.039828 |         91.334769 | Medium (1000-2000) |
+|  Thomas High School |     Charter |           1635 |       $1,043,130.00 |            $638.00 |          83.418349 |             83.848930 |      93.272171 |         97.308869 |         90.948012 | Medium (1000-2000) |
+| Griffin High School |     Charter |           1468 |         $917,500.00 |            $625.00 |          83.351499 |             83.816757 |      93.392371 |         97.138965 |         90.599455 | Medium (1000-2000) |
+|  Wilson High School |     Charter |           2283 |       $1,319,574.00 |            $578.00 |          83.274201 |             83.989488 |      93.867718 |         96.539641 |         90.582567 |  Large (2000-5000) |
+|    Pena High School |     Charter |            962 |         $585,858.00 |            $609.00 |          83.839917 |             84.044699 |      94.594595 |         95.945946 |         90.540541 |      Small (<1000) |
 
 ### Lowest-Performing Schools by Percentage of Overall Passing
 
-| School Name             | School Type | Total Students | Total School Budget | Per Student Budget | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
-|-------------------------|-------------|-----------------|----------------------|---------------------|------------------------|----------------|-------------------|-------------------|
-| Rodriguez High School   | District    | 3999            | $2,547,363.00        | $637.00             | 76.842711           | 80.744686              | 66.366592       | 80.220055          | 52.988247         |
-| Figueroa High School    | District    | 2949            | $1,884,411.00        | $639.00             | 76.711767           | 81.158020              | 65.988471       | 80.739234          | 53.204476         |
-| Huang High School       | District    | 2917            | $1,910,635.00        | $655.00             | 76.629414           | 81.182722              | 65.683922       | 81.316421          | 53.513884         |
-| Hernandez High School   | District    | 4635            | $3,022,020.00        | $652.00             | 77.289752           | 80.934412              | 66.752967       | 80.862999          | 53.527508         |
-| Johnson High School     | District    | 4761            | $3,094,650.00        | $650.00             | 77.072464           | 80.966394              | 66.057551       | 81.222432          | 53.539172         |
+|                       | School Type | Total Students | Total School Budget | Per Student Budget | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |        School Size |
+|----------------------:|------------:|---------------:|--------------------:|-------------------:|-------------------:|----------------------:|---------------:|------------------:|------------------:|-------------------:|
+| Rodriguez High School |    District |           3999 |       $2,547,363.00 |            $637.00 |          76.842711 |             80.744686 |      66.366592 |         80.220055 |         52.988247 | Medium (1000-2000) |
+|  Figueroa High School |    District |           2949 |       $1,884,411.00 |            $639.00 |          76.711767 |             81.158020 |      65.988471 |         80.739234 |         53.204476 | Medium (1000-2000) |
+|     Huang High School |    District |           2917 |       $1,910,635.00 |            $655.00 |          76.629414 |             81.182722 |      65.683922 |         81.316421 |         53.513884 | Medium (1000-2000) |
+| Hernandez High School |    District |           4635 |       $3,022,020.00 |            $652.00 |          77.289752 |             80.934412 |      66.752967 |         80.862999 |         53.527508 |  Large (2000-5000) |
+|   Johnson High School |    District |           4761 |       $3,094,650.00 |            $650.00 |          77.072464 |             80.966394 |      66.057551 |         81.222432 |         53.539172 |      Small (<1000) |
 
 #### Budget v.s. Academic Performance
 
