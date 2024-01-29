@@ -6,14 +6,14 @@ Download the Module 4 Challenge files,
 - Open PyCitySchools & check out the sample solution called PyCitySchools_starter.ipynb
 - Review the two Resouces file, schools_complete & students_complete
 
-# Part 1.
+Part 1.
 District Summary
 - Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 
 School Summary:
 - Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
 
-# Part 2.
+Part 2.
 a) Write a summary to showcase the obvious trend, and 
 
 b) Draws two correct conclusions or comparisons from the calculations 
