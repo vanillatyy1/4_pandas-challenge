@@ -12,9 +12,7 @@ Part 1.
 - Perform the necessary calculations on District & School Summary, and then create a high-level snapshot/ DataFrames of the key metrics.
 
 Part 2.
-
 - Write a summary to showcase the obvious trend, and 
-
 - Draws two correct conclusions or comparisons from the calculations 
 
 
