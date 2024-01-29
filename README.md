@@ -33,7 +33,13 @@ The percentage of students who passed math (math scores greather than or equal t
 
 - On average, students at Charter Schools do better than students at District Schools. The % of Overall Passing in Charter School is 90%, but the % of Overall Passing is only hits 54%. 
 - Students have a higher average math and reading score in Charter Schools, and the % passing on either subject is well above 90%.
-- Students in District Schools, however, only have an average math school of 76.96, and average reading score of 80.97, both of which are lower than the district average. 
+- Students in District Schools, however, only have an average math school of 76.96, and average reading score of 80.97, both of which are lower than the district average.
+
+| School Type | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
+|-------------|--------------------|-----------------------|----------------|-------------------|-------------------|
+| Charter     | 83.473852          | 83.896421             | 93.620830      | 96.586489         | 90.432244         |
+| District    | 76.956733          | 80.966636             | 66.548453      | 80.799062         | 53.672208         |
+
 - The Highest-Performing Schools by Percentage of Overall Passing (Top 5) are Charter Schools [Cabrera High School, Thomas High School, Griffin High School, Wilson High School, Pena High School], and Lowest-Performing Schools by Percentage of Overall Passing (Bottom 5) are District Schools [Rodriguez High School, Figueroa High School, Huang High School, Hernandez High School, Johnson High School] 
 - Therefore, based on the provided data, we could suggest that the school type played an important factor in determining academic success. 
 
