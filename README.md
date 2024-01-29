@@ -9,9 +9,7 @@ Download the Module 4 Challenge files,
 - Review the two Resouces file, schools_complete & students_complete
 
 Part 1.
-
-District & School Summary
-- Perform the necessary calculations and then create a high-level snapshot/ DataFrames of the key metrics.
+- Perform the necessary calculations on District & School Summary, and then create a high-level snapshot/ DataFrames of the key metrics.
 
 Part 2.
 
