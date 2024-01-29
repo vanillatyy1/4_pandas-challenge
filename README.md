@@ -24,9 +24,9 @@ b) Draws two correct conclusions or comparisons from the calculations
 
 
 ### District Summary:
-- There are 15 schools in the district with a total number of 39,170 students.
-- The average math score is 78.99, and the average reading score is 81.88.
-- The percentage of students who passed math (math scores greather than or equal to 70) is 75%, the percentage of students who passed reading (greather than or equal to 70) is 86% and the percentage of students that passed math and reading is 65%.
+There are 15 schools in the district with a total number of 39,170 students.
+The average math score is 78.99, and the average reading score is 81.88.
+The percentage of students who passed math (math scores greather than or equal to 70) is 75%, the percentage of students who passed reading (greather than or equal to 70) is 86% and the percentage of students that passed math and reading is 65%.
 
 ### School Summary:
 #### Charter Schools outperforms District Schools
