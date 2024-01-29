@@ -80,4 +80,5 @@ And reviewing the Scores by School Spending, Schools with a higher total school 
 Further analysis would be beneficial to explore whether higher funding contributes to academic success and better quality education, as there are certain limition to the data set to draw a definite conclusion.
 For example, the dataset lacks information about teaching methodologies, school culture, parental involvement, community support, and detailed financial information in terms of how the funds are utilized within schools. Understanding these factors is important for a more comprehensive assessment of the relationship between funding and educational outcomes, and the overall educational landscape. 
 
-
+#### Reference
+Markdown table generator (converting tables into Markdown): https://www.tablesgenerator.com/markdown_tables
