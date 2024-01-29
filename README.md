@@ -10,11 +10,8 @@ Download the Module 4 Challenge files,
 
 Part 1.
 
-District Summary
-- Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
-
-School Summary:
-- Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
+District & School Summary
+- Perform the necessary calculations and then create a high-level snapshot/ DataFrames of the key metrics.
 
 Part 2.
 
