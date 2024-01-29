@@ -67,8 +67,9 @@ The percentage of students who passed math (math scores greather than or equal t
 
 Based on the provided data, it does not seem like a higher spending range per student will always result in better math or reading score. In fact, with per-student budget increases, there is a noticeable decline in academic performance. For example, school(s) with a lowest spending ranges per student, display a higher % of overall passing (90%) compared to School(s) with spending ranges per student of $645-680, which only have 54% of overall passing.
 
-| Spending Ranges (Per Student) | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
+|                               | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
 |------------------------------:|-------------------:|----------------------:|---------------:|------------------:|------------------:|
+| Spending Ranges (Per Student) |                    |                       |                |                   |                   |
 |                         <$585 |          83.455399 |             83.933814 |      93.460096 |         96.610877 |         90.369459 |
 |                      $585-630 |          81.899826 |             83.155286 |      87.133538 |         92.718205 |         81.418596 |
 |                      $630-645 |          78.518855 |             81.624473 |      73.484209 |         84.391793 |         62.857656 |
