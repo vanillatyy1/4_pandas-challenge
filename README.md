@@ -10,6 +10,7 @@ Download the Module 4 Challenge files,
 
 Part 1.
 - Perform the necessary calculations on District & School Summary, and then create a high-level snapshot/ DataFrames of the key metrics.
+- (The final calculations are store in PyCitySchools_final.ipynb within the PyCitySchools folder)
 
 Part 2.
 - Write a summary to showcase the obvious trend, and 
