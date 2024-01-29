@@ -13,9 +13,9 @@ Part 1.
 
 Part 2.
 
-a) Write a summary to showcase the obvious trend, and 
+- Write a summary to showcase the obvious trend, and 
 
-b) Draws two correct conclusions or comparisons from the calculations 
+- Draws two correct conclusions or comparisons from the calculations 
 
 
 ### District Summary:
