@@ -2,7 +2,7 @@
 
 ## Introduction
 
-You are the new Chief Data Scientist for your city's school district, and you are helping the school board and mayor make strategic decisions regarding future school budgets and priorities. 
+As the new Chief Data Scientist for the city's school district, I am helping the school board and mayor make strategic decisions regarding future school budgets and priorities. 
 
 Download the Module 4 Challenge files,
 - Open PyCitySchools & check out the sample solution called PyCitySchools_starter.ipynb
